@@ -1,0 +1,72 @@
+﻿@model Functions.Models.Order
+
+@{
+    ViewData["Title"] = "Edit Order";
+}
+
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-dark">
+                <div class="card-header text-white text-center" style="background-color:black;">
+                    <h3 class="mb-0">Edit Order</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit" method="post">
+                        <input type="hidden" asp-for="PartitionKey" />
+                        <input type="hidden" asp-for="RowKey" />
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="CustomerRowKey" class="form-label fw-bold">Customer Email</label>
+                            <select asp-for="CustomerRowKey" class="form-control"
+                                    asp-items="@(new SelectList(ViewBag.Customers, "RowKey", "Email", Model.CustomerRowKey))">
+                                <option value="">Email</option>
+                            </select>
+                            <span asp-validation-for="CustomerRowKey" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ProductRowKey" class="form-label fw-bold">Product</label>
+                            <select asp-for="ProductRowKey" class="form-control"
+                                    asp-items="@(new SelectList(ViewBag.Products, "RowKey", "Name", Model.ProductRowKey))">
+                                <option value="">Product</option>
+                            </select>
+                            <span asp-validation-for="ProductRowKey" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Quantity" class="form-label fw-bold">Quantity</label>
+                            <input asp-for="Quantity" type="number" min="1" class="form-control" />
+                            <span asp-validation-for="Quantity" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-dark btn-lg">Save Changes</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="card-footer text-center">
+                    <a asp-action="Index" class="text-decoration-none text-dark">&larr; Back to Orders</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        transition: all 0.2s ease;
+    }
+
+    .form-control {
+        border: 1px solid #000;
+    }
+
+    .card-footer a:hover {
+        text-decoration: underline;
+    }
+</style>

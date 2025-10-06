@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container my-5 text-center">
+
+    <div class="mb-5">
+        <img src="~/Images/N.png" alt="Logo" width="150" height="100" class="mb-3">
+        <h2 class="h4 mb-2">Welcome to ABC Retail Dashboard</h2>
+        <p class="text-muted">Quickly navigate to manage your customers, products, and orders.</p>
+    </div>
+
+    <div class="row g-4 justify-content-center">
+
+        <div class="col-md-4">
+            <a href="/Customer" class="text-decoration-none">
+                <div class="card text-center shadow-sm h-100 hover-card">
+                    <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                        <i class="bi bi-people-fill display-1 mb-3 text-primary"></i>
+                        <h3 class="card-title">Customers</h3>
+                        <p class="text-muted">Manage your customers</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="col-md-4">
+            <a href="/Product" class="text-decoration-none">
+                <div class="card text-center shadow-sm h-100 hover-card">
+                    <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                        <i class="bi bi-box-seam display-1 mb-3 text-success"></i>
+                        <h3 class="card-title">Products</h3>
+                        <p class="text-muted">Manage your products</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="col-md-4">
+            <a href="/Order" class="text-decoration-none">
+                <div class="card text-center shadow-sm h-100 hover-card">
+                    <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                        <i class="bi bi-receipt display-1 mb-3 text-warning"></i>
+                        <h3 class="card-title">Orders</h3>
+                        <p class="text-muted">Manage your orders</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+<style>
+    .hover-card {
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+        .hover-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+        }
+</style>

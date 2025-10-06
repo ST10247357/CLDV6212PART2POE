@@ -1,0 +1,76 @@
+﻿@model Functions.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-dark">
+                <div class="card-header text-white text-center" style="background-color:black;">
+                    <h3 class="mb-0">Product Details</h3>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-4 fw-bold">Timestamp</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Timestamp)</dd>
+
+                        <dt class="col-sm-4 fw-bold">Name</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Name)</dd>
+
+                        <dt class="col-sm-4 fw-bold">Description</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Description)</dd>
+
+                        <dt class="col-sm-4 fw-bold">Price</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Price)</dd>
+
+                        <dt class="col-sm-4 fw-bold">Quantity</dt>
+                        <dd class="col-sm-8">@Html.DisplayFor(model => model.Quantity)</dd>
+
+                        <dt class="col-sm-4 fw-bold">Image</dt>
+                        <dd class="col-sm-8">
+                            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                            {
+                                <img src="@Model.ImageUrl" alt="Product Image" class="img-fluid border" />
+                            }
+                            else
+                            {
+                                <span>No image available</span>
+                            }
+                        </dd>
+                    </dl>
+
+                    <div class="d-grid gap-2">
+                        <a asp-action="Index" class="btn btn-dark btn-lg">Back to Products</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        transition: all 0.2s ease;
+    }
+
+    .card dl dt {
+        color: black;
+    }
+
+    .card dl dd {
+        color: #333;
+    }
+
+    .card-body img {
+        max-height: 300px;
+        object-fit: contain;
+    }
+
+    .card-footer a:hover {
+        text-decoration: underline;
+    }
+</style>
