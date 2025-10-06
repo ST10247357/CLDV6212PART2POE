@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\functions\\orderqueuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\functions\\orderqueuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\functions\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\functions\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\functionapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\functionapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\functions\\tablestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\functions\\tablestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\functions\\filestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\functions\\filestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|c:\\users\\giago\\source\\repos\\functionapp2\\functionapp2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E188A4-E982-4840-B488-873B0E87E128}|FunctionApp2\\FunctionApp2.csproj|solutionrelative:functionapp2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderQueueFunction.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\OrderQueueFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Functions\\OrderQueueFunction.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\OrderQueueFunction.cs",
+              "RelativeToolTip": "FunctionApp2\\Functions\\OrderQueueFunction.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:54:43.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\host.json",
+              "RelativeDocumentMoniker": "FunctionApp2\\host.json",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\host.json",
+              "RelativeToolTip": "FunctionApp2\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T19:03:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\Product.cs",
+              "RelativeToolTip": "FunctionApp2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:13:27.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\Order.cs",
+              "RelativeToolTip": "FunctionApp2\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:13:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Models\\FileModel.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\FileModel.cs",
+              "RelativeToolTip": "FunctionApp2\\Models\\FileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:13:10.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Models\\Customer.cs",
+              "RelativeToolTip": "FunctionApp2\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:12:47.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\TableStorageFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Functions\\TableStorageFunction.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\TableStorageFunction.cs",
+              "RelativeToolTip": "FunctionApp2\\Functions\\TableStorageFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFECAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:12:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\FileStorageFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Functions\\FileStorageFunction.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\FileStorageFunction.cs",
+              "RelativeToolTip": "FunctionApp2\\Functions\\FileStorageFunction.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAAACEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:11:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\BlobStorageFunction.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Functions\\BlobStorageFunction.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Functions\\BlobStorageFunction.cs",
+              "RelativeToolTip": "FunctionApp2\\Functions\\BlobStorageFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:10:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\FunctionApp2.csproj",
+              "RelativeDocumentMoniker": "FunctionApp2\\FunctionApp2.csproj",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\FunctionApp2.csproj",
+              "RelativeToolTip": "FunctionApp2\\FunctionApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T15:08:56.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\Program.cs",
+              "RelativeToolTip": "FunctionApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:05:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\local.settings.json",
+              "RelativeDocumentMoniker": "FunctionApp2\\local.settings.json",
+              "ToolTip": "C:\\Users\\giago\\source\\repos\\FunctionApp2\\FunctionApp2\\local.settings.json",
+              "RelativeToolTip": "FunctionApp2\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T15:05:20.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
